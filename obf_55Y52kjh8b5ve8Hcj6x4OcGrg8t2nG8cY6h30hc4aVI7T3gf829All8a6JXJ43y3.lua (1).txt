@@ -1,1 +1,1 @@
-print("Nuh uh") 
+Player:Kick("Script has stop working please pay owner of the script...") 
